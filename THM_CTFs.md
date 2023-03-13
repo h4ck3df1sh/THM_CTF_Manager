@@ -3,7 +3,7 @@
 |:---------------------------:|:--------------------------------:|:-----------------------:|:------------------:|
 |          0x41haz          |              0day              |    Adventure Time     |     CCT2019      |
 |        Agent Sudo         |      AllSignsPoint2Pwnage      | Anonymous Playground  |    Crocc Crew    |
-|          Agent T          |             Annie              |      Borderlands      |      Osiris      |
+|          Agent T          |             Annie              |      Borderlands      |      O̶s̶i̶r̶i̶s̶      |
 |        All in One         |           Anonymous            |      Brainpan 1       |     Takedown     |
 |         Anonforce         |             Aratus             |     Carpe Diem 1      |     Theseus      |
 |          Anthem           |             Aster              |     CherryBlossom     | You're in a cave |
