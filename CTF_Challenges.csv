@@ -1,0 +1,294 @@
+title,status,difficulty
+Basic Pentesting,unresolved,easy
+Pickle Rick,unresolved,easy
+RootMe,unresolved,easy
+Simple CTF,unresolved,easy
+OhSINT,unresolved,easy
+Bounty Hacker,unresolved,easy
+Crack the hash,unresolved,easy
+Agent Sudo,unresolved,easy
+Overpass,unresolved,easy
+LazyAdmin,unresolved,easy
+Chocolate Factory,unresolved,easy
+Source,unresolved,easy
+Easy Peasy,unresolved,easy
+Git Happens,unresolved,easy
+Reversing ELF,unresolved,easy
+Archangel,unresolved,easy
+ColddBox: Easy,unresolved,easy
+Fowsniff CTF,unresolved,easy
+Sakura Room,unresolved,easy
+WebOSINT,unresolved,easy
+Library,unresolved,easy
+HeartBleed,unresolved,easy
+Intermediate Nmap,unresolved,easy
+Neighbour,unresolved,easy
+Flatline,unresolved,easy
+Wordpress: CVE-2021-29447,unresolved,easy
+JPGChat,unresolved,easy
+Tony the Tiger,unresolved,easy
+Hacker vs. Hacker,unresolved,easy
+Jason,unresolved,easy
+Mr. Phisher,unresolved,easy
+KoTH Food CTF,unresolved,easy
+0x41haz,unresolved,easy
+Bugged,unresolved,easy
+MD2PDF,unresolved,easy
+"PrintNightmare, again!",unresolved,easy
+Dear QA,unresolved,easy
+Lian_Yu,unresolved,easy
+CTF collection Vol.1,unresolved,easy
+ToolsRus,unresolved,easy
+Vulnerability Capstone,unresolved,easy
+Brute It,unresolved,easy
+h4cked,unresolved,easy
+Chill Hack,unresolved,easy
+Searchlight - IMINT,unresolved,easy
+GamingServer,unresolved,easy
+Anthem,unresolved,easy
+b3dr0ck,unresolved,easy
+VulnNet: Node,unresolved,easy
+Confidential,unresolved,easy
+Memory Forensics,unresolved,easy
+magician,unresolved,easy
+TakeOver,unresolved,easy
+Quotient,unresolved,easy
+Committed,unresolved,easy
+Epoch,unresolved,easy
+Dig Dug,unresolved,easy
+Gallery,unresolved,easy
+All in One,unresolved,easy
+Gotta Catch'em All!,unresolved,easy
+Madness,unresolved,easy
+Res,unresolved,easy
+Jack-of-All-Trades,unresolved,easy
+VulnNet: Internal,unresolved,easy
+IDE,unresolved,easy
+Break Out The Cage,unresolved,easy
+Anonforce,unresolved,easy
+c4ptur3-th3-fl4g,unresolved,easy
+Skynet,unresolved,easy
+Startup,unresolved,easy
+tomghost,unresolved,easy
+Ignite,unresolved,easy
+Investigating Windows,unresolved,easy
+Brooklyn Nine Nine,unresolved,easy
+Cyborg,unresolved,easy
+Wgel CTF,unresolved,easy
+Year of the Rabbit,unresolved,easy
+Agent T,unresolved,easy
+Mustacchio,unresolved,easy
+Juicy Details,unresolved,easy
+Smag Grotto,unresolved,easy
+Corridor,unresolved,easy
+Team,unresolved,easy
+Blueprint,unresolved,easy
+kiba,unresolved,easy
+Tech_Supp0rt: 1,unresolved,easy
+Ninja Skills,unresolved,easy
+The Greenholt Phish,unresolved,easy
+VulnNet: Roasted,unresolved,easy
+Poster,unresolved,easy
+CyberHeroes,unresolved,easy
+Couch,unresolved,easy
+Thompson,unresolved,easy
+Plotted-TMS,unresolved,easy
+Cat Pictures,unresolved,easy
+GLITCH,unresolved,easy
+Dav,unresolved,easy
+Mr Robot CTF,unresolved,medium
+Attacktive Directory,unresolved,medium
+Wonderland,unresolved,medium
+Net Sec Challenge,unresolved,medium
+Relevant,unresolved,medium
+dogcat,unresolved,medium
+Anonymous,unresolved,medium
+Boiler CTF,unresolved,medium
+Blog,unresolved,medium
+UltraTech,unresolved,medium
+PS Eclipse,unresolved,medium
+VulnNet: Active,unresolved,medium
+Benign,unresolved,medium
+Unbaked Pie,unresolved,medium
+Lumberjack Turtle,unresolved,medium
+Musical Stego,unresolved,medium
+Keldagrim,unresolved,medium
+En-pass,unresolved,medium
+Break it,unresolved,medium
+SafeZone,unresolved,medium
+Recovery,unresolved,medium
+Scripting,unresolved,medium
+Binex,unresolved,medium
+The Server From Hell,unresolved,medium
+Warzone 2,unresolved,medium
+Olympus,unresolved,medium
+biteme,unresolved,medium
+Sustah,unresolved,medium
+Eavesdropper,unresolved,medium
+The Impossible Challenge,unresolved,medium
+Lockdown,unresolved,medium
+Develpy,unresolved,medium
+Minotaur's Labyrinth,unresolved,medium
+Aratus,unresolved,medium
+Investigating with Splunk,unresolved,medium
+Binary Heaven,unresolved,medium
+Zeek Exercises,unresolved,medium
+Lunizz CTF,unresolved,medium
+harder,unresolved,medium
+Metamorphosis,unresolved,medium
+Road,unresolved,medium
+Tokyo Ghoul,unresolved,medium
+Looking Glass,unresolved,medium
+Carnage,unresolved,medium
+GoldenEye,unresolved,medium
+Crack The Hash Level 2,unresolved,medium
+NahamStore,unresolved,medium
+Oh My WebServer,unresolved,medium
+ConvertMyVideo,unresolved,medium
+HA Joker CTF,unresolved,medium
+Biohazard,unresolved,medium
+0day,unresolved,medium
+Overpass 3 -  Hosting,unresolved,medium
+Basic Malware RE,unresolved,medium
+Gatekeeper,unresolved,medium
+The Marketplace,unresolved,medium
+Watcher,unresolved,medium
+Brainstorm,unresolved,medium
+Disk Analysis & Autopsy,unresolved,medium
+CMesS,unresolved,medium
+NoNameCTF,unresolved,medium
+Cold VVars,unresolved,medium
+Kubernetes for Everyone,unresolved,medium
+Ollie,unresolved,medium
+Nax,unresolved,medium
+CMSpit,unresolved,medium
+Zeno,unresolved,medium
+Snort Challenge - Live Attacks,unresolved,medium
+Masterminds,unresolved,medium
+HaskHell,unresolved,medium
+Classic Passwd,unresolved,medium
+battery,unresolved,medium
+SQHell,unresolved,medium
+Hamlet,unresolved,medium
+KoTH Hackers,unresolved,medium
+DX1: Liberty Island,unresolved,medium
+pyLon,unresolved,medium
+Red Stone One Carat,unresolved,medium
+JVM Reverse Engineering,unresolved,medium
+Island Orchestration,unresolved,medium
+SigHunt,unresolved,medium
+StuxCTF,unresolved,medium
+Super-Spam,unresolved,medium
+The Blob Blog,unresolved,medium
+Frank & Herby make an app,unresolved,medium
+AllSignsPoint2Pwnage,unresolved,medium
+PalsForLife,unresolved,medium
+"PrintNightmare, thrice!",unresolved,medium
+One Piece,unresolved,medium
+Frank and Herby try again.....,unresolved,medium
+Aster,unresolved,medium
+Chronicle,unresolved,medium
+Attacking ICS Plant #2,unresolved,medium
+Brute,unresolved,medium
+Unstable Twin,unresolved,medium
+Undiscovered,unresolved,medium
+Napping,unresolved,medium
+VulnNet: dotjar,unresolved,medium
+ContainMe,unresolved,medium
+Dunkle Materie,unresolved,medium
+toc2,unresolved,medium
+WWBuddy,unresolved,medium
+Fortress,unresolved,medium
+Surfer,unresolved,medium
+Willow,unresolved,medium
+Forensics ,unresolved,medium
+Warzone 1,unresolved,medium
+Revenge,unresolved,medium
+PWN101,unresolved,medium
+Madeye's Castle,unresolved,medium
+Annie,unresolved,medium
+Inferno,unresolved,medium
+Snort Challenge - The Basics,unresolved,medium
+Investigating Windows 3.x,unresolved,medium
+Conti,unresolved,medium
+Sweettooth Inc.,unresolved,medium
+Mnemonic,unresolved,medium
+Debug,unresolved,medium
+Jacob the Boss,unresolved,medium
+Cooctus Stories,unresolved,medium
+Git and Crumpets,unresolved,medium
+RazorBlack,unresolved,medium
+ItsyBitsy,unresolved,medium
+Biblioteca,unresolved,medium
+NerdHerd,unresolved,medium
+New Hire Old Artifacts,unresolved,medium
+VulnNet: Endgame,unresolved,medium
+Templates,unresolved,medium
+Ghizer,unresolved,medium
+That's The Ticket,unresolved,medium
+VulnNet: dotpy,unresolved,medium
+broker,unresolved,medium
+CTF collection Vol.2,unresolved,medium
+Bookstore,unresolved,medium
+VulnNet,unresolved,medium
+The Great Escape,unresolved,medium
+Wekor,unresolved,medium
+Investigating Windows 2.0,unresolved,medium
+Mindgames,unresolved,medium
+Empline,unresolved,medium
+Peak Hill,unresolved,medium
+CyberCrafted,unresolved,medium
+Daily Bugle,unresolved,hard
+Internal,unresolved,hard
+Retro,unresolved,hard
+Brainpan 1,unresolved,hard
+Ra,unresolved,hard
+Year of the Jellyfish,unresolved,hard
+Year of the Fox,unresolved,hard
+Different CTF,unresolved,hard
+Year of the Dog,unresolved,hard
+Jeff,unresolved,hard
+Jurassic Park,unresolved,hard
+Jack,unresolved,hard
+Anonymous Playground,unresolved,hard
+Borderlands,unresolved,hard
+Enterprise,unresolved,hard
+Year of the Pig,unresolved,hard
+Sea Surfer,unresolved,hard
+Year of the Owl,unresolved,hard
+Python Playground,unresolved,hard
+Ra 2,unresolved,hard
+Iron Corp,unresolved,hard
+Motunui,unresolved,hard
+Jumpbox,unresolved,hard
+Second,unresolved,hard
+envizon,unresolved,hard
+hc0n Christmas CTF,unresolved,hard
+Shaker,unresolved,hard
+Plotted-LMS,unresolved,hard
+CherryBlossom,unresolved,hard
+Misguided Ghosts,unresolved,hard
+Adventure Time,unresolved,hard
+Plotted-EMR,unresolved,hard
+Temple,unresolved,hard
+Carpe Diem 1,unresolved,hard
+Racetrack Bank,unresolved,hard
+Spring,unresolved,hard
+Tempus Fugit Durius,unresolved,hard
+GameBuzz,unresolved,hard
+Squid Game,unresolved,hard
+Uranium CTF,unresolved,hard
+EnterPrize,unresolved,hard
+M4tr1x: Exit Denied,unresolved,hard
+Fusion Corp,unresolved,hard
+Dave's Blog,unresolved,hard
+REloaded,unresolved,hard
+For Business Reasons,unresolved,hard
+Set,unresolved,hard
+Rocket,unresolved,hard
+CCT2019,unresolved,insane
+Takedown,unresolved,insane
+Crocc Crew,unresolved,insane
+You're in a cave ,unresolved,insane
+Osiris,unresolved,insane
+Theseus,unresolved,insane
