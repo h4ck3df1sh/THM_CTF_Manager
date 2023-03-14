@@ -72,7 +72,7 @@
 |          RootMe           |          Masterminds           |                       |                  |
 |        Sakura Room        |         Metamorphosis          |                       |                  |
 |    Searchlight - IMINT    |           Mindgames            |                       |                  |
-|        Simple CTF         |      Minotaur's Labyrinth      |                       |                  |
+|        S̶i̶m̶p̶l̶e̶ ̶C̶T̶F̶         |      Minotaur's Labyrinth      |                       |                  |
 |          Skynet           |            Mnemonic            |                       |                  |
 |        Smag Grotto        |          Mr Robot CTF          |                       |                  |
 |          Source           |         Musical Stego          |                       |                  |
