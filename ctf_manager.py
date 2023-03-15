@@ -67,10 +67,12 @@ def update_ctfs():
 
 def edit_ctf(args):
     try:
-        edit_csv(args.edit[0], args.info)
-        print(
-            f"\n{Fore.GREEN}[+] Status for CTF: {args.edit[0].capitalize()} changed!{Fore.RESET}\n")
-        edit_md()
+        changed = edit_csv(args.edit[0], args.info)
+        if changed:
+            edit_md()
+            print(f"\n{Fore.GREEN}[+] Status for CTF: {args.edit[0].capitalize()} changed!{Fore.RESET}\n")
+        else:
+            print(f"\n{Fore.RED}[!] CTF not found. Check your spelling!{Fore.RESET}\n")
     except Exception as e:
         print(e)
         print(f"\n{Fore.RED}[!] No data found on system{Fore.RESET}\n")

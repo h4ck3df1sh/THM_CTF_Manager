@@ -32,6 +32,7 @@ def update_csv(fetched_data,data):
     return data
 
 def edit_csv(ctf_title,new_status='PWND',csv_file_path='CTF_Challenges.csv'):
+    ctf_updated=False
     # Read data from CSV file
     with open(csv_file_path, 'r') as file:
         reader = csv.DictReader(file)
@@ -41,10 +42,27 @@ def edit_csv(ctf_title,new_status='PWND',csv_file_path='CTF_Challenges.csv'):
     for row in data:
         if row['title'].lower() == ctf_title.lower():
             row['status'] = new_status
+            ctf_updated = True
             break  # Stop iterating once CTF is found and updated
+    if ctf_updated:
+        # Write updated data back to CSV file
+        with open(csv_file_path, 'w', newline='') as file:
+            writer = csv.DictWriter(file, fieldnames=['title', 'status', 'difficulty'])
+            writer.writeheader()
+            writer.writerows(data)
+    return ctf_updated
 
-    # Write updated data back to CSV file
-    with open(csv_file_path, 'w', newline='') as file:
-        writer = csv.DictWriter(file, fieldnames=['title', 'status', 'difficulty'])
-        writer.writeheader()
-        writer.writerows(data)
+def show_ctf(ctf_name):
+    csv_title= "difficulty"
+    with open('CTF_Challenges.csv', mode='r') as file:
+        csvFile = csv.reader(file)
+        data = {}
+        next(csvFile)
+        for row in csvFile:
+            difficulty = row[2]
+            if difficulty not in data:
+                data[difficulty] = []
+            if row[0] is not ctf_name:
+                continue
+            data[difficulty].append({'title': row[0], 'status': row[1]})
+        return data
